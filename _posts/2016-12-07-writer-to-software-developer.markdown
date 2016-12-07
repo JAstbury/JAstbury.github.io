@@ -22,4 +22,4 @@ After winning the end-of-course group competition with a website about <a href="
 
 Now I'm a REAL LIFE software developer and I couldn't be more happy with the path that I took.
 
-I've started this blog to document things I've learnt and share some tips on what worked for me while learning :)
+I've started this blog to document things I've learnt and share some tips on what has worked for me :)
