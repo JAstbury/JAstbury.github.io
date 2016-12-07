@@ -1,23 +1,27 @@
 # Site settings
-email: 
+email: jess.astbury@gmail.com
 baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
-google_analytics: 
+google_analytics:
 
 # SEO settings
-title: Trophy
-description: 
-url: ""
-twitter_username: 
-default_img: 
+title: Jess Astbury
+description: Full-Stack Developer
+url: "JAstbury.github.io"
+twitter_username: jess_astbury
+default_img:
 
 # Profile settings
-name: 
-profile_img: 
-profile: 
+name: Jess Astbury
+profile_img: "/assets/images/jessa.jpg"
+profile: Jess Astbury<br/><br/>- english literature geek turned software developer.
 social:
-  github: 
+  github: JAstbury
+  twitter: jess_astbury
+  linkedin: jess-astbury-2bb91160
+
+
 
 # Build settings
 include: ["_categories"]
