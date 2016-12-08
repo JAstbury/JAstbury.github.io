@@ -54,9 +54,9 @@ As a junior developer, you'll be expected to ask questions so ask them :)<br><br
 
 ## 4. There will be Ups.. and there will be Downs
 <br>
-There will be days when you think: "I suck", "I was never cut out for this", "I wonder how hard it would be to retrain as a dolphin trainer". You'll be stuck hunting an elusive bug for hours and hours and the code in front of you will be swimming before your eyes.
+There will be days when you think: "I suck", "HOW did I think I was ever cut out for this?!!", "I wonder how hard it would be to reskill as a dolphin trainer". You'll be stuck hunting an elusive bug for hours and hours and the code in front of you will be swimming before your eyes.
 
-Minutes later and you've fixed it. You think.. "actually I'm pretty awesome. I'm one of those rock-star developer/code ninjas all the job adverts shout about wanting!".
+Minutes later and you've fixed it. You think.. "actually I'm pretty awesome. I'm one of those rock-star developer/code ninjas all the job adverts talk about!".
 
 The road to code is anything but smooth. I wonder if senior developers have the same intense ups and downs or whether they've just learnt to ride the waves a little better.<br><br>
 

@@ -18,7 +18,7 @@ Being an English Literature student turned writer/marketer/person-who-sends-lots
 
 <img src="/assets/images/free-cakes-for-kids.png">
 
-After winning the end-of-course group competition with a website about <a href="https://free-cakes-for-kids.herokuapp.com/index.html">cake</a>, I went on to take Code First: Girls' advanced course in Ruby, attended a tonne of other events with companies like <a href="https://www.womenwhocode.com/">Women Who Code</a>, quit my job, started Makers Academy (an intensive coding bootcamp) and finished with a job at the end. Phew!
+After winning the end-of-course group competition with a website about <a href="https://free-cakes-for-kids.herokuapp.com/index.html">cake</a>, I went on to take Code First: Girls' advanced course in Ruby, attended a ton of other events with companies like <a href="https://www.womenwhocode.com/">Women Who Code</a>, quit my job, started Makers Academy (an intensive coding bootcamp) and finished with a job at the end. Phew!
 
 Now I'm a REAL LIFE software developer and I couldn't be more happy with the path that I took.
 
