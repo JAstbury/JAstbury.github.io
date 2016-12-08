@@ -7,10 +7,10 @@ google_analytics:
 
 # SEO settings
 title: Jess Astbury
-description: Full-Stack Developer
+description: From English Literature Geek to Full-Stack Developer
 url: "JAstbury.github.io"
 twitter_username: jess_astbury
-default_img:
+default_img: https://unsplash.it/500/300?image=532
 
 # Profile settings
 name: Jess Astbury
