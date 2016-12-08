@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What I've Learned in my First Three Months as a Junior Developer"
+title: "What I've Learned in Three Months as a Junior Developer"
 date: 2016-12-07
 categories:
   - Learning to Code
