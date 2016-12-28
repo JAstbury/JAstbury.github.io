@@ -49,7 +49,7 @@ And it's definitely important to try to be self motivated and self-reliant but y
 As a junior developer, you'll be expected to ask questions so ask them :)<br><br>
 
 <div style="text-align: center;">
-  <iframe src="//giphy.com/embed/R7weSSUjdPdoA" width="480" height="269" text-align:center frameBorder="0" class="giphy-embed" allowFullScreen></iframe><br><br>
+  <img src="/assets/images/I_Am_Devloper.jpg"><br><br>
 </div>
 
 ## 4. There will be Ups.. and there will be Downs
